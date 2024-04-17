@@ -11,8 +11,7 @@ The Data Science Tutor is an interactive conversational AI application designed 
 ## Technologies Used
 - Python
 - Streamlit: For building the user interface
-- Hugging Face Transformers: For leveraging pre-trained conversational AI models
-- Git: For version control
+- Gemini Api key
 
 ## Installation
 1. Clone the repository:
